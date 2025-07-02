@@ -1,0 +1,6 @@
+[2025-07-02 15:50:19,206] 17 root - ERROR - Error occurred in script [C:\Users\mazen\OneDrive\Desktop\Q&A_System\exception.py] line [30] message [division by zero]
+Traceback:
+  File "C:\Users\mazen\OneDrive\Desktop\Q&A_System\exception.py", line 30, in <module>
+    a = 1 / 0
+        ~~^~~
+
