@@ -47,7 +47,7 @@ Whether it's a research paper, contract, or lecture notes — this system intell
 
 ## 🖼️ UI Preview
 
-![App Folder Structure Preview](https://github.com/MazenAhmedAbdalmohsen/Q-A_System/blob/main/docs/app_ui.png)  
+![App Folder Structure Preview](https://github.com/MazenAhmedAbdalmohsen/Q-A_System/blob/master/docs/app_ui.png)  
 <sup>📂 Screenshot from GitHub project structure</sup>
 
 ---
